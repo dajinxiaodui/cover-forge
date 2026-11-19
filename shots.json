@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&size=landscape&style=neon&layout=hero2&photo=pier&photo2=boulevard&title=NEON%20HARBOR&subtitle=VICE%20CITY%20NIGHTS&oy=0.55","w":1280},{"h":720,"name":"2-editor.jpg","query":"?shot=editor&size=landscape&style=sunset&layout=hero2&photo=boulevard&photo2=pier&title=BOULEVARD%20QUEEN&subtitle=SUNSET%20BOULEVARD","w":1280},{"h":1080,"name":"3-cover-square.jpg","query":"?shot=cover&size=square&style=sunset&layout=hero3&photo=pier&photo2=boulevard&title=SUNSET%20HEIST&subtitle=GOLDEN%20HOUR%20CREW","w":1080},{"h":1280,"name":"4-cover-portrait.jpg","query":"?shot=cover&size=portrait&style=retro&layout=grid&photo=boulevard&photo2=pier&title=PIER%20LIGHTS&subtitle=OLD%20TOWN%20STORIES","w":1024}]
